@@ -1,0 +1,19 @@
+{
+  "name": "email-service",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "https://github.com/firec0der/email-service#readme",
+  "bugs": {
+    "url": "https://github.com/firec0der/email-service/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firec0der/email-service.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
